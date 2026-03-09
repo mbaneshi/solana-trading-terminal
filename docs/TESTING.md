@@ -26,7 +26,7 @@ Before running tests, ensure you have:
 ## Test Structure
 
 ```
-07-solana-trading-platform/
+solana-trading-terminal/
 ├── app/
 │   ├── src/
 │   │   └── __tests__/

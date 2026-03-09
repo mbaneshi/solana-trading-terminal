@@ -198,7 +198,7 @@ The complete Solana DEX Trading Platform has been successfully built according t
 ## Project Structure
 
 ```
-07-solana-trading-platform/
+solana-trading-terminal/
 ├── programs/
 │   └── trading-platform/
 │       ├── src/

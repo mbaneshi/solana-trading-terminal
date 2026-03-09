@@ -28,7 +28,7 @@ avm use latest
 
 ```bash
 # Clone or navigate to project
-cd 07-solana-trading-platform
+cd solana-trading-terminal
 
 # Run automated setup script
 ./scripts/setup.sh
@@ -261,7 +261,7 @@ cd backend && npm run build
 ## Project Structure
 
 ```
-07-solana-trading-platform/
+solana-trading-terminal/
 ├── programs/          # Anchor smart contracts
 ├── app/               # Next.js frontend
 ├── backend/           # Node.js backend API

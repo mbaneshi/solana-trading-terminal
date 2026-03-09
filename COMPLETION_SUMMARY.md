@@ -149,7 +149,7 @@
 
 ```bash
 # Navigate to frontend
-cd /Users/nerd/freelancer/07-solana-trading-platform/app
+cd app
 
 # Install dependencies
 npm install --legacy-peer-deps
@@ -171,7 +171,7 @@ npm run build
 
 ```bash
 # Navigate to backend
-cd /Users/nerd/freelancer/07-solana-trading-platform/backend
+cd backend
 
 # Install dependencies
 npm install
@@ -192,8 +192,8 @@ npm run build
 ### Integration Tests
 
 ```bash
-# Navigate to project root
-cd /Users/nerd/freelancer/07-solana-trading-platform
+# Navigate to project root (from repo root)
+# cd solana-trading-terminal
 
 # Start local validator (terminal 1)
 solana-test-validator

@@ -325,7 +325,7 @@ useSwap hook includes:
 ## File Structure
 
 ```
-07-solana-trading-platform/
+solana-trading-terminal/
 ├── app/
 │   ├── src/
 │   │   ├── __tests__/
